@@ -86,12 +86,14 @@
 
 4. Item Selection and Ordering Module:
 
-       Functionality:
+      Functionality:
+   
         • Allows users to select the variety of products available.
         • Includes the functionality to user that any number of quantities can be purchased.
         • Stores the purchased items in the shopping cart for further reference.
    
        Flow:
+   
         • User selects a category of product from the Home page.
         • Chooses the item and its quantity.
         • Clicks on the "Add to cart" button.
