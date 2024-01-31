@@ -8,12 +8,16 @@
     At the heart of the system lies a powerful Point of Sale (POS) module, revolutionizing the transaction process with secure, swift payment options ranging from traditional cash to digital wallets. Electronic receipts enhance customer convenience while contributing to a paperless environment. The customer management features foster strong relationships through registration, loyalty programs, and personalized services based on historical preferences and orders.
 
     Efficient staff management is a key component, encompassing attendance tracking, payroll management, and integrated training modules for continual skill development. The system's reporting and analytics tools offer real-time insights into sales patterns, inventory turnover, and financial performance, empowering decision-makers to implement data-driven strategies for sustained growth.
-   Beyond operations, the Café Management System incorporates table reservation capabilities with both online and offline options, ensuring a seamless dining experience for customers. Security is paramount, with role-based access control and data encryption safeguarding sensitive information, and regular updates addressing emerging security threats.
-   In essence, the Café Management System is poised to be an indispensable asset for café businesses, offering a comprehensive solution that not only meets but anticipates the evolving demands of the dynamic hospitality industry.
+
+    Beyond operations, the Café Management System incorporates table reservation capabilities with both online and offline options, ensuring a seamless dining experience for customers. Security is paramount, with role-based access control and data encryption safeguarding sensitive information, and regular updates addressing emerging security threats.
+
+    In essence, the Café Management System is poised to be an indispensable asset for café businesses, offering a comprehensive solution that not only meets but anticipates the evolving demands of the dynamic hospitality industry.
 
 	
 2.DESIGNING  AND ANALYSIS:
+
 ![image](https://github.com/Selvashankari/Cafe-Management-System/assets/139032221/5c067b3d-8516-4a61-b326-65c004ce6d88)
+
 
 3.MODULES:
 1.	Sign-up
@@ -21,10 +25,14 @@
 3.	Browse Item
 4.	Add-to-cart
 5.	ShopNow
+
 ![image](https://github.com/Selvashankari/Cafe-Management-System/assets/139032221/1aba02cc-d052-4ff5-a6df-d8f774ed128c)
 
+
 1. Sign-up Module:
+   
 Functionality:
+
  •	Allows users to create a new account for Cafe management.
  •	Collects essential user information for account creation, such as name, email, password, etc.
  •	Performs validation to ensure data integrity.
