@@ -1,5 +1,5 @@
 # Cafe-Management-System
-                                                 CAFE MANAGEMENT SYSTEM
+                                                                    CAFE MANAGEMENT SYSTEM
 	
 1. ABSTRACT:
 
@@ -91,8 +91,8 @@
         • Allows users to select the variety of products available.
         • Includes the functionality to user that any number of quantities can be purchased.
         • Stores the purchased items in the shopping cart for further reference.
-   
-       Flow:
+
+      Flow:
    
         • User selects a category of product from the Home page.
         • Chooses the item and its quantity.
