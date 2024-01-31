@@ -77,6 +77,7 @@
         • Clear and concise availability of products.
 
       Content:
+   
         • Introduction to the Café Management System.
         • Features and Benefits:
         • User-friendly interface.
@@ -101,7 +102,7 @@
 
 Conclusion 
 
-     In summary, the Café Management System stands as a comprehensive solution designed to enhance efficiency, customer satisfaction, and overall operational effectiveness in cafes. By seamlessly integrating modern technology, streamlining tasks, and prioritizing customer engagement, it emerges as a valuable asset for cafe owners aiming to navigate the competitive hospitality landscape with confidence.
+   In summary, the Café Management System stands as a comprehensive solution designed to enhance efficiency, customer satisfaction, and overall operational effectiveness in cafes. By seamlessly integrating modern technology, streamlining tasks, and prioritizing customer engagement, it emerges as a valuable asset for cafe owners aiming to navigate the competitive hospitality landscape with confidence.
 
 ![home](https://github.com/Selvashankari/Cafe-Management-System/assets/139032221/8466c0c2-aa65-4a1d-9172-343ee57c90d6)
 ![image](https://github.com/Selvashankari/Cafe-Management-System/assets/139032221/8b02fec1-c860-40ff-b15c-0301ecb06298)
