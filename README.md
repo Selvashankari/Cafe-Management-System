@@ -1,5 +1,5 @@
 # Cafe-Management-System
-CAFE MANAGEMENT SYSTEM
+                                                 CAFE MANAGEMENT SYSTEM
 	
 1. ABSTRACT:
    The Café Management System is a cutting-edge software solution that serves as a pivotal tool for café owners and managers, bringing efficiency and innovation to various facets of their business. Its intuitive interface ensures smooth order processing, providing customers with real-time tracking and a visually appealing menu experience. The system's robust inventory control mechanisms go beyond traditional stock management by issuing timely low-stock alerts and establishing seamless communication channels with suppliers for automatic replenishment.
