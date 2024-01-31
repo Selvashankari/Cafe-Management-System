@@ -1,5 +1,5 @@
 # Cafe-Management-System
-                                                                    CAFE MANAGEMENT SYSTEM
+                                                        CAFE MANAGEMENT SYSTEM
 	
 1. ABSTRACT:
 
